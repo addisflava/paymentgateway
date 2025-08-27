@@ -25,7 +25,7 @@
         "unicodeveloper/laravel-paystack": "1.2.*",
         "billowapp/payfast": "^0.4.0",
         "mercadopago/dx-php":"^2.4.4",
-        "tzsk/payu": "^7.*",
+        "tzsk/payu": "^7.0",
         "square/square": "^43.0",
         "cinetpay/cinetpay-php": "^1.9",
         "paytabscom/laravel_paytabs": "dev-master",
